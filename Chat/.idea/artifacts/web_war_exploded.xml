@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web" />
+          <element id="module-output" name="common" />
+          <element id="module-output" name="dataaccess" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons" />
+          <element id="library" level="project" name="jstl_1.1.2" />
+          <element id="library" level="project" name="mail-1.4.5-source" />
+          <element id="library" level="project" name="jpa2" />
+          <element id="library" level="project" name="mysql-connector-java-5.0.6-bin" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="web/web/Web" />
+    </root>
+  </artifact>
+</component>

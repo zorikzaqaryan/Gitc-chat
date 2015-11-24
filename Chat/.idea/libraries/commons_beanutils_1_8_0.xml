@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons/commons-lang-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
